@@ -1,5 +1,5 @@
 {
-  "name": "things-proxy",
+  "name": "darkness-rebooted",
   "version": "1.0.0",
   "description": "Things Proxy, made by Things Network",
   "type": "module",
@@ -9,9 +9,9 @@
   "files": ["static", "src", "ssl", ".gitignore"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Things-Network/Things-Proxy"
+    "url": "git+https://github.com/Darkness-Organization/Darkness-Rebooted"
   },
-  "keywords": ["unoffical", "ultraviolet", "unblock", "bypass-filter", "Things-Network"],
+  "keywords": ["unoffical", "ultraviolet", "unblock", "bypass-filter", "darkness"],
   "author": "",
   "license": "MIT",
   "dependencies": {
