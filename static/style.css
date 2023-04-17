@@ -266,13 +266,13 @@ nav {
   border: none;
 }
 .container {
-  max-width: 800px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 20px;
   overflow-y: auto;
-  max-height: 400px;
-  top: 15%;
-  left: 27%;
+  max-height: 100%;
+  top: 5%;
+  left: 0%;
   position: fixed;
 }
 .apps-btn, .apps-btn img{
