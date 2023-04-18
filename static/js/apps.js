@@ -28,7 +28,7 @@ button.addEventListener("click", function() {
   window.location.href = "https://" + location.hostname + __uv$config.prefix + __uv$config.encodeUrl("https://twitter.com");
 });
 
-const button = document.getElementById("reddit")
+const redditbtn = document.getElementById("reddit")
 button.addEventListener("click", function() {
   window.location.href = "https://" + location.hostname + __uv$config.prefix + __uv$config.encodeUrl("https://reddit.com");
 });
