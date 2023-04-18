@@ -35,10 +35,10 @@ button.addEventListener("click", function() {
 
 const textnowbtn = document.getElementById("textnow")
 button.addEventListener("click", function() {
-  window.location.href = "https://" + location.hostname + __uv$config.prefix + __uv$config.encodeUrl("https:/textnow.com");
+  window.location.href = "https://" + location.hostname + __uv$config.prefix + __uv$config.encodeUrl("https://textnow.com");
 });
 
 const tiktokbtn = document.getElementById("tiktok")
 button.addEventListener("click", function() {
-  window.location.href = "https://" + location.hostname + __uv$config.prefix + __uv$config.encodeUrl("https:/tiktok.com");
+  window.location.href = "https://" + location.hostname + __uv$config.prefix + __uv$config.encodeUrl("https://tiktok.com");
 });
