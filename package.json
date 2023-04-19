@@ -1,7 +1,7 @@
 {
   "name": "darkness-rebooted",
   "version": "1.0.0",
-  "description": "Things Proxy, made by Things Network",
+  "description": "what do i put here?",
   "type": "module",
   "scripts": {
     "start": "node index.js"
